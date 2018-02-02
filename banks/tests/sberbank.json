@@ -1,0 +1,38 @@
+{
+    "cards": {
+        "840": {
+            "0": {
+                "isoCur": "USD",
+                "currencyName": "Доллар США",
+                "currencyNameEng": "US Dollar",
+                "rateType": "CURRENCY",
+                "categoryCode": "cards",
+                "scale": 1,
+                "buyValue": 54.84,
+                "sellValue": 57.96,
+                "activeFrom": 1517386380000,
+                "buyValuePrev": 55.14,
+                "sellValuePrev": 58.26,
+                "amountFrom": 0,
+                "amountTo": 9999999999.9899997711
+            }
+        },
+        "978": {
+            "0": {
+                "isoCur": "EUR",
+                "currencyName": "Евро",
+                "currencyNameEng": "Euro",
+                "rateType": "CURRENCY",
+                "categoryCode": "cards",
+                "scale": 1,
+                "buyValue": 68.46,
+                "sellValue": 71.96,
+                "activeFrom": 1517386380000,
+                "buyValuePrev": 68.51,
+                "sellValuePrev": 72.01,
+                "amountFrom": 0,
+                "amountTo": 9999999999.9899997711
+            }
+        }
+    }
+}

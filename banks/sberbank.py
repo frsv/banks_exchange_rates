@@ -25,6 +25,7 @@ SBERBANK_PROXY_PARAMS = {
 def fetch_rates():
     response = requests.get(SBERBANK_PROXY_URL, params=SBERBANK_PROXY_PARAMS)
     content = response.json()
+    print(response.request.url)
     return [{
         'from': rate['0']['isoCur'],
         'to': 'RUB',

@@ -23,36 +23,36 @@ class TestBelinvest(TestCase):
                 'from': 'EUR',
                 'to': 'RUB',
                 'buy': '68.90',
-                'sell': '71.70'
+                'sell': '71.70',
             },
             {
                 'from': 'EUR',
                 'to': 'USD',
                 'buy': '1.22',
-                'sell': '1.27'
+                'sell': '1.27',
             },
             {
                 'from': 'GBP',
                 'to': 'RUB',
                 'buy': '78.40',
-                'sell': '81.70'
+                'sell': '81.70',
             },
             {
                 'from': 'GBP',
                 'to': 'USD',
                 'buy': '1.39',
-                'sell': '1.45'
+                'sell': '1.45',
             },
             {
                 'from': 'GBP',
                 'to': 'EUR',
                 'buy': '1.11',
-                'sell': '1.16'
+                'sell': '1.16',
             },
             {
                 'from': 'USD',
                 'to': 'RUB',
                 'buy': '55.15',
                 'sell': '57.40',
-            }
+            },
         ])
