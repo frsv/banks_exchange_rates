@@ -43,7 +43,7 @@ Tests running
 
 Just run
 ```bash
-pytest
+python -m unittest
 ```
 
 License
