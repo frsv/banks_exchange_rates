@@ -1,4 +1,4 @@
-from banks import belinvest, tinkoff
+from banks import belinvest, tinkoff, sberbank
 
 
 def fetch_currencies(currencies, banks):
@@ -10,13 +10,11 @@ def fetch_currencies(currencies, banks):
     banks_rates = {
         'tinkoff': tinkoff.fetch_rates,
         'belinvest': belinvest.fetch_rates,
+        'sberbank': sberbank.fetch_rates,
     }
-
-    rates = {
-        bank: banks_rates[bank]() for bank in banks
-    }
-
+    rates = {bank: banks_rates[bank]() for bank in banks}
     result = {}
+
     for currency in currencies:
         result[currency] = {}
         for bank, data in rates.items():
