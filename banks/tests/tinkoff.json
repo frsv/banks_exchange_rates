@@ -1,0 +1,2896 @@
+{
+    "resultCode": "OK",
+    "payload": {
+        "0": {
+            "payload": {
+                "lastUpdate": {
+                    "milliseconds": 1517572316039
+                },
+                "rates": [
+                    {
+                        "category": "DepositClosingBenefit",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 54.85
+                    },
+                    {
+                        "category": "DepositClosingBenefit",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.6
+                    },
+                    {
+                        "category": "DepositClosingBenefit",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.3
+                    },
+                    {
+                        "category": "DepositClosing",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 54.85
+                    },
+                    {
+                        "category": "DepositClosing",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.6
+                    },
+                    {
+                        "category": "DepositClosing",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.3
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 54.85,
+                        "sell": 57.1
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6849315068,
+                        "sell": 0.7142857143
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.78125,
+                        "sell": 0.8130081301
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.6,
+                        "sell": 71.4
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.23,
+                        "sell": 1.28
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8620689655,
+                        "sell": 0.8928571429
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.3,
+                        "sell": 81.45
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.12,
+                        "sell": 1.16
+                    },
+                    {
+                        "category": "DepositPayments",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.4,
+                        "sell": 1.46
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6993006993,
+                        "sell": 0.7067137809
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.796812749,
+                        "sell": 0.8045052293
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8733624454,
+                        "sell": 0.8826125331
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "DebitCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 54.85,
+                        "sell": 57.1
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6849315068,
+                        "sell": 0.7142857143
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.78125,
+                        "sell": 0.8130081301
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.6,
+                        "sell": 71.4
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.23,
+                        "sell": 1.28
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8620689655,
+                        "sell": 0.8928571429
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.3,
+                        "sell": 81.45
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.12,
+                        "sell": 1.16
+                    },
+                    {
+                        "category": "DebitCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.4,
+                        "sell": 1.46
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 54.85,
+                        "sell": 57.1
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6849315068,
+                        "sell": 0.7142857143
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.78125,
+                        "sell": 0.8130081301
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.6,
+                        "sell": 71.4
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.23,
+                        "sell": 1.28
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8620689655,
+                        "sell": 0.8928571429
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.3,
+                        "sell": 81.45
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.12,
+                        "sell": 1.16
+                    },
+                    {
+                        "category": "CreditCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.4,
+                        "sell": 1.46
+                    },
+                    {
+                        "category": "CreditCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "CreditCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "CreditCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6993006993,
+                        "sell": 0.7067137809
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.796812749,
+                        "sell": 0.8045052293
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8733624454,
+                        "sell": 0.8826125331
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "PrepaidCardsTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 54.85,
+                        "sell": 57.1
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6849315068,
+                        "sell": 0.7142857143
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.78125,
+                        "sell": 0.8130081301
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.6,
+                        "sell": 71.4
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.23,
+                        "sell": 1.28
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8620689655,
+                        "sell": 0.8928571429
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.3,
+                        "sell": 81.45
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.12,
+                        "sell": 1.16
+                    },
+                    {
+                        "category": "PrepaidCardsOperations",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.4,
+                        "sell": 1.46
+                    },
+                    {
+                        "category": "SavingAccountTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "SavingAccountTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "SavingAccountTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "SavingAccountTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "SavingAccountTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "SavingAccountTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "CUTransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.244,
+                        "sell": 1.254
+                    },
+                    {
+                        "category": "CUTransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.75,
+                        "sell": 80.45
+                    },
+                    {
+                        "category": "CUTransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.417,
+                        "sell": 1.429
+                    },
+                    {
+                        "category": "CUTransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.134,
+                        "sell": 1.144
+                    },
+                    {
+                        "category": "CUTransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.1,
+                        "sell": 56.55
+                    },
+                    {
+                        "category": "CUTransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 70.05,
+                        "sell": 70.6
+                    },
+                    {
+                        "category": "CUTransferAbove100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.15,
+                        "sell": 56.45
+                    },
+                    {
+                        "category": "CUTransferAbove100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 70.15,
+                        "sell": 70.5
+                    },
+                    {
+                        "category": "CUTransferAbove100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.246,
+                        "sell": 1.252
+                    },
+                    {
+                        "category": "CUTransferAbove100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.9,
+                        "sell": 80.35
+                    },
+                    {
+                        "category": "CUTransferAbove100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.419,
+                        "sell": 1.427
+                    },
+                    {
+                        "category": "CUTransferAbove100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.136,
+                        "sell": 1.142
+                    },
+                    {
+                        "category": "C2CTransfers",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.15,
+                        "sell": 57.4
+                    },
+                    {
+                        "category": "C2CTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 68.9,
+                        "sell": 71.7
+                    },
+                    {
+                        "category": "C2CTransfers",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.224,
+                        "sell": 1.275
+                    },
+                    {
+                        "category": "C2CTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 78.4,
+                        "sell": 81.7
+                    },
+                    {
+                        "category": "C2CTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.394,
+                        "sell": 1.452
+                    },
+                    {
+                        "category": "C2CTransfers",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.115,
+                        "sell": 1.162
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8733624454,
+                        "sell": 0.8826125331
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.796812749,
+                        "sell": 0.8045052293
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6993006993,
+                        "sell": 0.7067137809
+                    },
+                    {
+                        "category": "SMETransferAbove100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8688097307,
+                        "sell": 0.8873114463
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.6,
+                        "sell": 71.05
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.236,
+                        "sell": 1.262
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.127,
+                        "sell": 1.151
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.3,
+                        "sell": 80.95
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.408,
+                        "sell": 1.438
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7923930269,
+                        "sell": 0.8090614887
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6954102921,
+                        "sell": 0.7102272727
+                    },
+                    {
+                        "category": "SMETransferBelow10",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.75,
+                        "sell": 56.85
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8703220191,
+                        "sell": 0.8849557522
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.75,
+                        "sell": 70.9
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.239,
+                        "sell": 1.259
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.13,
+                        "sell": 1.149
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.45,
+                        "sell": 80.8
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.411,
+                        "sell": 1.435
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7942811755,
+                        "sell": 0.807102502
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6968641115,
+                        "sell": 0.7087172218
+                    },
+                    {
+                        "category": "SMETransferFrom10To100",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.85,
+                        "sell": 56.75
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8688097307,
+                        "sell": 0.8873114463
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.6,
+                        "sell": 71.05
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.236,
+                        "sell": 1.262
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.127,
+                        "sell": 1.151
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.3,
+                        "sell": 80.95
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.408,
+                        "sell": 1.438
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7923930269,
+                        "sell": 0.8090614887
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6954102921,
+                        "sell": 0.7102272727
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.75,
+                        "sell": 56.85
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8688097307,
+                        "sell": 0.8873114463
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.6,
+                        "sell": 71.05
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.236,
+                        "sell": 1.262
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.127,
+                        "sell": 1.151
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.3,
+                        "sell": 80.95
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.408,
+                        "sell": 1.438
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7923930269,
+                        "sell": 0.8090614887
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6954102921,
+                        "sell": 0.7102272727
+                    },
+                    {
+                        "category": "SMETransferAbove100G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.75,
+                        "sell": 56.85
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8688097307,
+                        "sell": 0.8873114463
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.6,
+                        "sell": 71.05
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.236,
+                        "sell": 1.262
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.127,
+                        "sell": 1.151
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.3,
+                        "sell": 80.95
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.408,
+                        "sell": 1.438
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7923930269,
+                        "sell": 0.8090614887
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6954102921,
+                        "sell": 0.7102272727
+                    },
+                    {
+                        "category": "SMETransferBelow10G11",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.75,
+                        "sell": 56.85
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8710801394,
+                        "sell": 0.8849557522
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.8,
+                        "sell": 70.85
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.24,
+                        "sell": 1.258
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.13,
+                        "sell": 1.148
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.5,
+                        "sell": 80.75
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.412,
+                        "sell": 1.434
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7949125596,
+                        "sell": 0.8064516129
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6973500697,
+                        "sell": 0.7082152975
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.9,
+                        "sell": 56.75
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8710801394,
+                        "sell": 0.8849557522
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.8,
+                        "sell": 70.85
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.24,
+                        "sell": 1.258
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.13,
+                        "sell": 1.148
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.5,
+                        "sell": 80.75
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.412,
+                        "sell": 1.434
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7949125596,
+                        "sell": 0.8064516129
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6973500697,
+                        "sell": 0.7082152975
+                    },
+                    {
+                        "category": "SMETransferAbove100G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.9,
+                        "sell": 56.75
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8688097307,
+                        "sell": 0.8873114463
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.6,
+                        "sell": 71.05
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.236,
+                        "sell": 1.262
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.127,
+                        "sell": 1.151
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.3,
+                        "sell": 80.95
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.408,
+                        "sell": 1.438
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7923930269,
+                        "sell": 0.8090614887
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6954102921,
+                        "sell": 0.7102272727
+                    },
+                    {
+                        "category": "SMETransferBelow10G12",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.75,
+                        "sell": 56.85
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8733624454,
+                        "sell": 0.8826125331
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.796812749,
+                        "sell": 0.8045052293
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6993006993,
+                        "sell": 0.7067137809
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8733624454,
+                        "sell": 0.8826125331
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.796812749,
+                        "sell": 0.8045052293
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6993006993,
+                        "sell": 0.7067137809
+                    },
+                    {
+                        "category": "SMETransferAbove100G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8710801394,
+                        "sell": 0.8849557522
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.8,
+                        "sell": 70.85
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.24,
+                        "sell": 1.258
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.13,
+                        "sell": 1.148
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.5,
+                        "sell": 80.75
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.412,
+                        "sell": 1.434
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7949125596,
+                        "sell": 0.8064516129
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6973500697,
+                        "sell": 0.7082152975
+                    },
+                    {
+                        "category": "SMETransferBelow10G13",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 55.9,
+                        "sell": 56.75
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8741258741,
+                        "sell": 0.8810572687
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 70.05,
+                        "sell": 70.6
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.244,
+                        "sell": 1.254
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.135,
+                        "sell": 1.144
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.8,
+                        "sell": 80.45
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.417,
+                        "sell": 1.429
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7974481659,
+                        "sell": 0.8038585209
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.699790063,
+                        "sell": 0.705716302
+                    },
+                    {
+                        "category": "SMETransferFrom10To100G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.1,
+                        "sell": 56.5
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8756567426,
+                        "sell": 0.8802816901
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 70.15,
+                        "sell": 70.5
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.246,
+                        "sell": 1.252
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.136,
+                        "sell": 1.142
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.9,
+                        "sell": 80.35
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.419,
+                        "sell": 1.427
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.7987220447,
+                        "sell": 0.8025682183
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.7007708479,
+                        "sell": 0.704721635
+                    },
+                    {
+                        "category": "SMETransferAbove100G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.15,
+                        "sell": 56.45
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.8733624454,
+                        "sell": 0.8826125331
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 69.95,
+                        "sell": 70.7
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.243,
+                        "sell": 1.255
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 1.133,
+                        "sell": 1.145
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 79.7,
+                        "sell": 80.55
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "toCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "buy": 1.415,
+                        "sell": 1.43
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "EUR",
+                            "code": 978
+                        },
+                        "buy": 0.796812749,
+                        "sell": 0.8045052293
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "GBP",
+                            "code": 826
+                        },
+                        "buy": 0.6993006993,
+                        "sell": 0.7067137809
+                    },
+                    {
+                        "category": "SMETransferBelow10G13CO",
+                        "fromCurrency": {
+                            "name": "USD",
+                            "code": 840
+                        },
+                        "toCurrency": {
+                            "name": "RUB",
+                            "code": 643
+                        },
+                        "buy": 56.0,
+                        "sell": 56.6
+                    }
+                ]
+            },
+            "resultCode": "OK"
+        }
+    },
+    "trackingId": "58864639177"
+}
