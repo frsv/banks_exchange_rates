@@ -18,23 +18,58 @@ As module:
 ```python
 from banks_exchange_rates import fetch_currency
 
-# fetch_currency(currency, banks)
-fetch_currency(['usd', 'euro'], ['tinkoff', 'sberbank', 'belinvest'])
+fetch_currency(['USD', 'EUR'], ['tinkoff', 'sberbank', 'belinvest'])
 ```
 
 As python script:
 
 ```bash
-python banks_exchange_rates.py usd tinkoff,sberbank,belinvest
+python banks_exchange_rates.py USD,EUR tinkoff,sberbank
 
-USD buy:
-    60,00 tinkoff
-    61,00 sberbank
-    2,01 belinvest
-USD sell:
-    65,00 tinkoff
-    66,00 sberbank
-    2,2 belinvest
+{
+    "USD": {
+        "sberbank": [
+            {
+                "from": "USD",
+                "to": "RUB",
+                "buy": 54.84,
+                "sell": 57.96
+            }
+        ],
+        "tinkoff": [
+            {
+                "from": "USD",
+                "to": "RUB",
+                "buy": "55.25",
+                "sell": "57.50"
+            }
+        ]
+    },
+    "EUR": {
+        "sberbank": [
+            {
+                "from": "EUR",
+                "to": "RUB",
+                "buy": 68.46,
+                "sell": 71.96
+            }
+        ],
+        "tinkoff": [
+            {
+                "from": "EUR",
+                "to": "RUB",
+                "buy": "68.75",
+                "sell": "71.60"
+            },
+            {
+                "from": "EUR",
+                "to": "USD",
+                "buy": "1.22",
+                "sell": "1.27"
+            }
+        ]
+    }
+}
 ```
 
 
