@@ -1,53 +1,36 @@
-import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urlencode
-
-
-TINKOFF_ENDPOINT = 'https://api05.tinkoff.ru/v1/grouped_requests?origin=web'
-BELINVEST_ENDPOINT = 'https://ibank.belinvestbank.by/api/cardsCourses.php'
-
-
-
-def fetch_tinkoff_currencies():
-    response = requests.post(TINKOFF_ENDPOINT, data={'requestsData': '[{"key":0,"operation":"currency_rates"}]'})
-    content = response.json()
-
-    if not content.get('resultCode') == 'OK':
-        return []
-
-    rates = filter(
-        lambda rate: rate['category'] == 'C2CTransfers', 
-        content['payload']['0']['payload']['rates'],
-    )
-
-    return [{
-        'from': rate['fromCurrency']['name'],
-        'to': rate['toCurrency']['name'],
-        'buy': f'{rate["buy"]:.2f}',
-        'sell': f'{rate["sell"]:.2f}',
-    } for rate in rates]
-
-
-def fetch_belinvest_currencies():
-    response = requests.get(BELINVEST_ENDPOINT)
-    content = BeautifulSoup(response.text, 'html.parser')
-    rates = content.find_all('forexrateinqrs')
-
-    return [{
-        'from': rate.curcode.string,
-        'to': rate.basecurcode.string,
-        'operation': rate.forexratedealtype.string.lower(),
-        'amount': rate.curamnt.string,
-        'value': rate.currate.string,
-    } for rate in rates]
+from banks import belinvest, tinkoff
 
 
 def fetch_currencies(currencies, banks):
-    pass
+    if isinstance(currencies, str):
+        currencies = currencies.split(',')
+    if isinstance(banks, str):
+        banks = banks.split(',')
 
-# rates = fetch_tinkoff_currencies()
-# print('Tinkoff')
-# for rate in rates:
-#     print(f'\n{rate["from"]} -> {rate["to"]}')
-#     print(f'\tbuy: {rate["buy"]}')
-#     print(f'\tsell: {rate["sell"]}')
+    banks_rates = {
+        'tinkoff': tinkoff.fetch_rates,
+        'belinvest': belinvest.fetch_rates,
+    }
+
+    rates = {
+        bank: banks_rates[bank]() for bank in banks
+    }
+
+    result = {}
+    for currency in currencies:
+        result[currency] = {}
+        for bank, data in rates.items():
+            result[currency][bank] = list(filter(lambda rate: rate['from'] == currency, data))
+
+    return result
+
+if __name__ == '__main__':
+    import sys
+    import json
+    try:
+        currencies = sys.argv[1]
+        banks = sys.argv[2]
+    except IndexError:
+        sys.exit('Currencies and banks args are required')
+    result = fetch_currencies(currencies, banks)
+    print(json.dumps(result, indent=4))
